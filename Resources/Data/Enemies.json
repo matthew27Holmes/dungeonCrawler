@@ -1,0 +1,22 @@
+{
+  "Bat": {
+    "health": 40,
+    "damage": 1,
+    "armour": 0,
+    "description": "I am a Creature from the \ndarkest depths of your mind!!!",
+    "attack": "The bat sinks its fangs in to your noggin",
+    "dead": "The bat lies crumpled on the floor",
+	  "model": "Bat",
+	  "model_scale": 1.0
+  }
+  "Zombie": {
+	"health": 50,
+	"damage":4,
+	"armour":1,
+	"description":"\"garrag\"",
+	"attack": "The zombie lunges at you with a rust sword",
+        "dead": "The zombie bones drop to a pile on the floor",
+		"model":"Zombie",
+		"model_scale":1.0
+	}
+}
